@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RussellRebecca
-- 👀 I’m interested in front dev
+
 
 
 <!---
